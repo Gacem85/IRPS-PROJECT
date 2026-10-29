@@ -1,0 +1,15 @@
+    Nuit 1/366 (2005-01-01) [0s]
+    Nuit 50/366 (2005-02-18) [93s]
+    Nuit 100/366 (2005-04-09) [174s]
+    Nuit 150/366 (2005-05-29) [231s]
+    Nuit 200/366 (2005-07-18) [287s]
+    Nuit 250/366 (2005-09-06) [349s]
+    Nuit 300/366 (2005-10-26) [411s]
+    Nuit 350/366 (2005-12-15) [477s]
+  Calcul des tableaux enrichis...
+  Export → D:\projets\Research\Projet IRPS\resultats_IPRS_complet\Adrar\IPRS_complet.xlsx
+  → 66+160+160+1200+64 lignes exportées
+D:\projets\Research\Projet IRPS\code.py:743: UserWarning: This figure includes Axes that are not compatible with tight_layout, so results might be incorrect.
+  plt.tight_layout()
+D:\projets\Research\Projet IRPS\code.py:807: UserWarning: This figure includes Axes that are not compatible with tight_layout, so results might be incorrect.
+  plt.tight_layout()
